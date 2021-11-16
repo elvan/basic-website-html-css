@@ -1,11 +1,12 @@
 h1 {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Oswald', sans-serif;
   text-align: center;
   color: #e63946;
+  font-weight: 600;
 }
 
 p {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: 'Fira Sans', sans-serif;
   text-align: center;
   color: #1d3557;
 }
@@ -22,6 +23,6 @@ a:hover {
 
 #daily-challenge {
   color: #b5838d;
-  font-weight: bold;
+  font-weight: 600;
   font-size: 32px;
 }
