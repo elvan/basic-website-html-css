@@ -1,35 +1,7 @@
-body {
-  text-align: center;
-  background-color: #f1faee;
-}
-
 img {
   height: 200px;
   width: 200px;
   border-radius: 10%;
-}
-
-h1 {
-  font-family: 'Oswald', sans-serif;
-  text-align: center;
-  color: #e63946;
-  font-weight: 600;
-}
-
-p {
-  font-family: 'Fira Sans', sans-serif;
-  text-align: center;
-  color: #1d3557;
-}
-
-a {
-  color: #7400b8;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #6930c3;
-  text-decoration: underline;
 }
 
 #daily-challenge {

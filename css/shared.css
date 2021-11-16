@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #f1faee;
+  color: #03071e;
+}
+
+h1 {
+  font-family: 'Oswald', sans-serif;
+  color: #e63946;
+  font-weight: 600;
+}
+
+p {
+  font-family: 'Fira Sans', sans-serif;
+  color: #1d3557;
+}
+
+a {
+  color: #7400b8;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #6930c3;
+  text-decoration: underline;
+}
