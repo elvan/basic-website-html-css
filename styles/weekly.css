@@ -1,9 +1,11 @@
 h1 {
   font-size: 32px;
   color: #1d3557;
+  margin: 12px 0;
 }
 
 a {
+  padding: 12px 32px;
   background-color: #e63946;
   color: #fff;
   border: 1px solid #e63946;
@@ -20,9 +22,13 @@ a:hover {
 ol {
   list-style: none;
   color: #003049;
+  width: 600px;
+  margin: 32px auto 0 auto;
+  padding: 0;
 }
 
 li {
+  padding: 16px;
   background-color: #f4a261;
   border-radius: 6px;
   margin: 32px;
