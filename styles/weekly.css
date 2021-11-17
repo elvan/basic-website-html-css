@@ -1,3 +1,28 @@
-li {
+h1 {
+  font-size: 32px;
+  color: #1d3557;
+}
+
+a {
+  background-color: #e63946;
+  color: #fff;
+  border-radius: 4px;
+  font-size: 24px;
+}
+
+a:hover {
+  background-color: #d90429;
+  text-decoration: none;
+  color: #f1faee;
+}
+
+ol {
   list-style: none;
+  color: #003049;
+}
+
+li {
+  background-color: #f4a261;
+  border-radius: 6px;
+  margin: 32px;
 }
