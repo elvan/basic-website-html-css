@@ -33,3 +33,17 @@ li {
   border-radius: 6px;
   margin: 32px;
 }
+
+#description {
+  color: #1d3557;
+  margin-bottom: 32px;
+}
+
+h2 {
+  color: #370617;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+main p {
+  margin: 12px;
+}
