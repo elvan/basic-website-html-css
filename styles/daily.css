@@ -8,6 +8,11 @@ main {
   box-shadow: 4px 4px 20px rgb(0, 0, 0, 0.5);
 }
 
+section {
+  width: 800px;
+  margin: auto;
+}
+
 img {
   height: 200px;
   width: 200px;
